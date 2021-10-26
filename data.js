@@ -4,7 +4,7 @@ var person = [ {"name":"rishu",
               {"name":"ranjan",
               "age":31,
                "dob":"10-02-1990"},
-               {"name":"pandey",
+               {"name":"pandeyy",
               "age":41,
                "dob":"10-02-1980"},
           ]
