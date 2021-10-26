@@ -1,4 +1,4 @@
-var person = [ {"name":"rishu",
+var person = [ {"name":"rishu r",
               "age":21,
                "dob":"10-02-1996"},
               {"name":"ranjan",
